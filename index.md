@@ -1,9 +1,9 @@
-# Bowfolios
+#Manoa Exchange
 
 ## Table of contents
 
-* [Overview](#overview)
-* [Deployment](#deployment)
+* [Description](#description)
+* [Goals](#goals)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -13,7 +13,7 @@
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 
-## Overview
+## Description
 
 BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
 
@@ -33,7 +33,9 @@ It also provides code that implements a variety of useful design concepts, inclu
 * Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
 * Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
 * Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
+## Goals
 
+This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 ## User Guide
 
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
