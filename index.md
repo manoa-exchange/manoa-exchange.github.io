@@ -15,4 +15,4 @@
 
 ## Team
 
-Study Buddy is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.org), [Richard Baltazar](https://RichardBzar.org), [Kayla-Marie Torres](https://kaylamarietorres.org), [Josiah Kila](https://josiahkila.org) and [Lauren Clayton](https://laurenjc.github.io/).
+Study Buddy is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
