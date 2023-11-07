@@ -32,4 +32,4 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 ## Team
 
-Study Buddy is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+Study Buddy is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.org), [Richard Baltazar](https://RichardBzar.org), [Kayla-Marie Torres](https://kaylamarietorres.org), [Josiah Kila](https://josiahkila.org) and [Lauren Clayton](https://laurenjc.github.io/).
