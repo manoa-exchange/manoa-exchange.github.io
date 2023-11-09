@@ -6,8 +6,8 @@ title: Manoa Exchange
 
 * [Description](#description)
 * [Goals](#goals)
-* [Team](#team)
 * [Developmental Progress](#developmental-progress)
+* [Team](#team)
 
 ## Description
 
@@ -66,12 +66,12 @@ Create a site that:
 - Is easy to navigate
 - Allows special permissions for moderators
 
-## Team
-
-Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
-
 ## Developmental Progress
 
 [Milestone 1](https://github.com/orgs/manoa-exchange/projects/1)
 
 For M1, we will largely be focusing on implementing a UI. We will also implement a Profiles collection to hold data related to each user profile.
+
+## Team
+
+Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
