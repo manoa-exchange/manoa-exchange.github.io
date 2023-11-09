@@ -44,7 +44,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 Students can post a picture to be shared with their followers. The post component consist of an image, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
-<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page">
+<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page" style="width: 50%; height: auto;">
 
 
 ## Goals
