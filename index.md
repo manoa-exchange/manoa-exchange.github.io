@@ -16,9 +16,25 @@ There are students who want to travel abroad, but have no prior experience, and 
 
 Our solution is a peer-to-peer study abroad experience sharing site which is an application designed for UH Manoa students to post about the experiences they had in traveling/studying in other countries. This enables and promotes student discussion on the topic of studying abroad.
 
+### Concept Landing
+
+<img src="doc/landing.png" alt="concept-landing">
+
 ## Goals
 
+Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
 
+Create a site that allows users to:
+- Register and sign into their account
+- Have personal profile pages
+- Create posts with images, descriptions, and tags
+- Like, save, and reply to posts
+- Report inappropriate posts and comments
+
+Create a site that:
+- Looks attractive and modern
+- Is easy to navigate
+- Allows special permissions for moderators
 
 ## Team
 
