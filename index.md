@@ -1,5 +1,3 @@
-# Manoa Exchange
-
 ## Table of contents
 
 * [Description](#description)
@@ -18,7 +16,34 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 ### Concept Landing
 
+The landing page is presented when viewres first enter the site and dispays images from student posts and a link to register or sign in.
+
 <img src="doc/landing.png" alt="concept-landing">
+
+### Concept Profile Page
+
+The profile page displays the user's personal information as well as other social links. Other students have the option to follow each other though the follow button when signed in.
+
+<img src="doc/manoa-exchange-profile-page-mockup.png" alt="concept-profile-page">
+
+### Concept Sign Up Page
+
+Users can use the Register Button on the right hand corner of the navbar to register for a new account. Students will need to enter their UH Manoa email and ID in order to create new posts.
+
+<img src="doc/manoa-exchange-sign-up-page-mockup.png" alt="concept-sign-up-page">
+
+### Concept Sign In Page 
+
+To sign in, students can either use the link at the top of the navbar or in the Register page. 
+
+<img src="doc/sign-inPage.png" alt="concept-sign-in-page">
+
+### Concept Post Component
+
+Students can post a picture to be shared with their followers. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
+
+<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page" style="width: 40%; height: auto;">
+
 
 ## Goals
 
