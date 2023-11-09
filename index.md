@@ -22,7 +22,11 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 ### Concept Profile Page
 
-<img src="doc/manoa-exchange-profile-page.png" alt="concept-profile-page"
+<img src="doc/manoa-exchange-profile-page-mockup.png" alt="concept-profile-page"
+
+### Concept Sign Up Page
+
+<img src="doc/manoa-exchange-sign-up-page-mockup.png" alt="concept-sign-up-page"
 
 ## Goals
 
