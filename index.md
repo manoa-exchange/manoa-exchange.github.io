@@ -40,6 +40,12 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 <img src="doc/sign-inPage.png" alt="concept-sign-in-page">
 
+### Concept Post Component
+
+Students can post a picture to be shared with their followers. The post component consist of an image, likes, comments, saves, reports, tags, profile picture, and a comment section.
+
+<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page">
+
 
 ## Goals
 
