@@ -1,4 +1,4 @@
-## Manoa Exchange
+# Manoa Exchange
 
 ## Table of contents
 
