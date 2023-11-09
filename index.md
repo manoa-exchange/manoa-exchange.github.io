@@ -28,6 +28,15 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 <img src="doc/manoa-exchange-sign-up-page-mockup.png" alt="concept-sign-up-page">
 
+Click the Register Button on the right hand corner of the navbar to register for a new account. Students will need to enter their UH Manoa email and ID in order to create new posts 
+
+### Concept Sign In Page 
+
+<img src="doc/sign-inPage.png" alt="concept-sign-in-page">
+
+To sign in, students can either use the link at the top of the navbar or in the Register page. 
+
+
 ## Goals
 
 Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
