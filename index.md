@@ -1,5 +1,3 @@
-#Manoa Exchange
-
 ## Table of contents
 
 * [Description](#description)
