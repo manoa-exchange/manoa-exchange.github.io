@@ -20,6 +20,10 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 <img src="doc/landing.png" alt="concept-landing">
 
+### Concept Profile Page
+
+<img src="doc/manoa-exchange-profile-page.png" alt="concept-profile-page"
+
 ## Goals
 
 Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
