@@ -4,7 +4,6 @@ title: Manoa Exchange
 
 ### Links for Milestone 1
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
-* <a href= "https://manoaexchange.com/">Digital Ocean</a>
 * <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
 * <a href = "https://manoaexchange.com/">Deployment</a> 
 * --up to date screenshots showing current state of the project---
