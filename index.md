@@ -64,7 +64,7 @@ Students can post a picture to be shared with their followers. The post componen
 
 <img src="doc/CommentsPage.png" alt="concept-comments">
 
-### SignOut Page
+### Sign Out Page
 
 <img src="doc/signOut.PNG" alt="sign-out">
 
