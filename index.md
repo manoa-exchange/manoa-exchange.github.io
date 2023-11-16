@@ -59,7 +59,16 @@ Students can post a picture to be shared with their followers. The post componen
 <img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page" style="width: 40%; height: auto;">
 
 ### Concept Add Post 
-<img src= "doc/AddPostPage" alt="concept-add-post">
+<img src= "doc/AddPostPage.png" alt="concept-add-post">
+
+### Concept Edit Post 
+<img src="doc/EditPostPage.png" alt="concept-edit-post">
+
+### Concept CommentsPage
+<img src="doc/CommentsPage.png" alt="concept-comments">
+
+
+
 
 
 
