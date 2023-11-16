@@ -32,13 +32,13 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 The landing page is presented when viewres first enter the site and dispays images from student posts and a link to register or sign in.
 
-<img src="doc/landing.png" alt="concept-landing">
+<img src="doc/landingM1.png" alt="concept-landing">
 
 ### Concept Profile Page
 
 The profile page displays the user's personal information as well as other social links. Other students have the option to follow each other though the follow button when signed in.
 
-<img src="doc/manoa-exchange-profile-page-mockup.png" alt="concept-profile-page">
+<img src="doc/profile-pageM1.png" alt="concept-profile-page">
 
 ### Concept Sign Up Page
 
