@@ -29,9 +29,9 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 ### Concept Landing
 
-The landing page is presented when viewres first enter the site and dispays images from student posts and a link to register or sign in.
+The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
 
-<img src="doc/landingM1.png" alt="concept-landing">
+<img src="doc/landingm1.png" alt="concept-landing">
 
 ### Concept Profile Page
 
@@ -68,15 +68,8 @@ Students can post a picture to be shared with their followers. The post componen
 ### Concept Edit Post 
 <img src="doc/EditPostPage.png" alt="concept-edit-post">
 
-### Concept CommentsPage
+### Concept Comments Page
 <img src="doc/CommentsPage.png" alt="concept-comments">
-
-
-
-
-
-
-
 
 ## Goals
 
@@ -106,5 +99,7 @@ M2 Project page showing the issues expected to be addressed during the second Mi
 
 ## Team
 
+<a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
+
 Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
- <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
+
