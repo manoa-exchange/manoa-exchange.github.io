@@ -4,10 +4,11 @@ title: Manoa Exchange
 
 ### Links for Milestone 1
 * Github Organization: https://github.com/manoa-exchange
-* Team Contract: 
-* Deployment: (link to deployed app running on digital ocean)
+* Team Contract: https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit
+* Deployment: https://manoaexchange.com/
 * --up to date screenshots showing current state of the project---
-* A link to the M1 Project page, showing what issues were completed for this milestone. It is appropriate that by the time of the due date, there are no issues in the BackLog or In Progress for this milestone.
+* M1 Project Page: https://github.com/orgs/manoa-exchange/projects/1
+* M2 Project Page: https://github.com/orgs/manoa-exchange/projects/2
 * A link to the M2 Project page, showing the issues expected to be addressed during the second Milestone for this project.
 
 
