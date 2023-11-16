@@ -44,13 +44,13 @@ The profile page displays the user's personal information as well as other socia
 
 Users can use the Register Button on the right hand corner of the navbar to register for a new account. Students will need to enter their UH Manoa email and ID in order to create new posts.
 
-<img src="doc/manoa-exchange-sign-up-page-mockup.png" alt="concept-sign-up-page">
+<img src="doc/registerM1.png" alt="concept-sign-up-page">
 
 ### Concept Sign In Page 
 
 To sign in, students can either use the link at the top of the navbar or in the Register page. 
 
-<img src="doc/sign-inPage.png" alt="concept-sign-in-page">
+<img src="doc/signinM1.png" alt="concept-sign-in-page">
 
 ### Concept Post Component
 
