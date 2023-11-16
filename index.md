@@ -8,7 +8,6 @@ title: Manoa Exchange
 * <a href = "https://manoaexchange.com/">Deployment</a> 
 * --up to date screenshots showing current state of the project---
 *  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
-*  <a href ="https://github.com/orgs/manoa-exchange/projects/2">M2 Project Page</a> 
 *  <a href ="https://github.com/orgs/manoa-exchange/projects/3/views/1">M2 Project page</a> showing the issues expected to be addressed during the second Milestone for this project.
 
 
