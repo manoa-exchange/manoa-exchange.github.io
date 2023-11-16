@@ -3,13 +3,13 @@ title: Manoa Exchange
 ---
 
 ### Links for Milestone 1
-* <a href = "https://github.com/manoa-exchange">Github Organization</a>
-* <a href= "https://manoaexchange.com/">Digital Ocean</a>
-* <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
-* <a href = "https://manoaexchange.com/">Deployment</a> 
+* Github Organization: https://github.com/manoa-exchange
+* Team Contract: https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit
+* Deployment: https://manoaexchange.com/
 * --up to date screenshots showing current state of the project---
-*  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
-*  <a href ="https://github.com/orgs/manoa-exchange/projects/3/views/1">M2 Project page</a> showing the issues expected to be addressed during the second Milestone for this project.
+* M1 Project Page: https://github.com/orgs/manoa-exchange/projects/1
+* M2 Project Page: https://github.com/orgs/manoa-exchange/projects/2
+* A link to the M2 Project page, showing the issues expected to be addressed during the second Milestone for this project.
 
 
 ## Table of contents
@@ -57,27 +57,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 Students can post a picture to be shared with their followers. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
-
-<img src="doc/postpage1.png" alt="concept-post-page1" style="width: 100%; height: auto;">
-
-<img src="doc/postpage3.png" alt="concept-post-page3" style="width: 100%; height: auto;">
-
-<img src="doc/postpage2.png" alt="concept-post-page2" style="width: 100%; height: auto;">
-
-### Concept Add Post 
-<img src= "doc/AddPostPage.png" alt="concept-add-post">
-
-### Concept Edit Post 
-<img src="doc/EditPostPage.png" alt="concept-edit-post">
-
-### Concept CommentsPage
-<img src="doc/CommentsPage.png" alt="concept-comments">
-
-
-
-
-
-
+<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page" style="width: 40%; height: auto;">
 
 
 ## Goals
