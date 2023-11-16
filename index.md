@@ -2,7 +2,7 @@
 title: Manoa Exchange
 ---
 
-### Links for Milestone 1
+### Important Links 
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
 * <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
 * <a href = "https://manoaexchange.com/">Deployment</a> 
@@ -100,10 +100,11 @@ Create a site that:
 
 For M1, we will largely be focusing on implementing a UI. We will also implement a Profiles collection to hold data related to each user profile.
 
-[Milestone 2](https://github.com/orgs/manoa-exchange/projects/3/views/1")
+[Milestone 2](https://github.com/orgs/manoa-exchange/projects/3/views/1)
+
 M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components and improve styling.
 
 ## Team
 
 Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
-* <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
+ <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a> 
