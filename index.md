@@ -99,7 +99,7 @@ M2 Project page showing the issues expected to be addressed during the second Mi
 
 We acquired the domain name manoaexchange.com and made it secure with an HTTPS.
 
-<a href=https://manoaexchange.com/>manoaexchange.com</a>
+[manoaexchange.com](https://manoaexchange.com)
 
 ## Team
 
