@@ -2,12 +2,11 @@
 title: Manoa Exchange
 ---
 
-### Links for Milestone 1
+### Important Links 
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
 * <a href= "https://manoaexchange.com/">Digital Ocean</a>
 * <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
 * <a href = "https://manoaexchange.com/">Deployment</a>
-
 
 ## Table of contents
 
@@ -28,9 +27,9 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 ### Concept Landing
 
-The landing page is presented when viewres first enter the site and dispays images from student posts and a link to register or sign in.
+The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
 
-<img src="doc/landingM1.png" alt="concept-landing">
+<img src="doc/landingm1.png" alt="concept-landing">
 
 ### Concept Profile Page
 
@@ -54,8 +53,16 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 Students can post a picture to be shared with their followers. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
-<img src="doc/manoa-exchange-post-page-mockup.png" alt="concept-post-page" style="width: 40%; height: auto;">
 
+
+### Concept Add Post 
+<img src= "doc/AddPostPage.png" alt="concept-add-post">
+
+### Concept Edit Post 
+<img src="doc/EditPostPage.png" alt="concept-edit-post">
+
+### Concept Comments Page
+<img src="doc/CommentsPage.png" alt="concept-comments">
 
 ## Goals
 
@@ -73,15 +80,6 @@ Create a site that:
 - Is easy to navigate
 - Allows special permissions for moderators
 
-### Concept Add Post
-<img src= "doc/AddPostPage.png" alt="concept-add-post">
-
-### Concept Edit Post
-<img src="doc/EditPostPage.png" alt="concept-edit-post">
-
-### Concept CommentsPage
-<img src="doc/CommentsPage.png" alt="concept-comments">
-
 
 
 ## Developmental Progress
@@ -90,6 +88,13 @@ Create a site that:
 
 For M1, we will largely be focusing on implementing a UI. We will also implement a Profiles collection to hold data related to each user profile.
 
+[Milestone 2](https://github.com/orgs/manoa-exchange/projects/3/views/1)
+
+M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components and improve styling.
+
 ## Team
 
+<a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
+
 Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
+
