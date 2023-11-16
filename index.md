@@ -7,12 +7,14 @@ title: Manoa Exchange
 * <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
 *  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
 *  <a href ="https://github.com/orgs/manoa-exchange/projects/3/views/1">M2 Project page</a>
+* <a href= "https://manoaexchange.com/">Digital Ocean</a>
+* <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
 
 ## Table of contents
 
 * [Description](#description)
 * [Goals](#goals)
-* [Developmental Progress](#developmental-progress)\
+* [Developmental Progress](#developmental-progress)
 * [Deployment](#deployment)
 * [Team](#team)
 
@@ -55,11 +57,6 @@ To sign in, students can either use the link at the top of the navbar or in the 
 Students can post a picture to be shared with their followers. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
 
-<img src="doc/postpage1.png" alt="concept-post-page1" style="width: 100%; height: auto;">
-
-<img src="doc/postpage3.png" alt="concept-post-page3" style="width: 100%; height: auto;">
-
-<img src="doc/postpage2.png" alt="concept-post-page2" style="width: 100%; height: auto;">
 
 ### Concept Add Post 
 <img src= "doc/AddPostPage.png" alt="concept-add-post">
@@ -85,6 +82,8 @@ Create a site that:
 - Looks attractive and modern
 - Is easy to navigate
 - Allows special permissions for moderators
+
+
 
 ## Developmental Progress
 
