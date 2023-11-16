@@ -66,7 +66,7 @@ Students can post a picture to be shared with their followers. The post componen
 
 ### SignOut Page
 
-<img src="doc/signOut.png" alt="sign-out">
+<img src="doc/signOut.PNG" alt="sign-out">
 
 ## Goals
 
