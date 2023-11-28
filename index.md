@@ -38,7 +38,7 @@ The landing page is presented when users first enter the site. There are several
 
 The profile page displays the user's personal information as well as other social links. Other students have the option to follow each other though the follow button when signed in.
 
-<img src="doc/profile-pageM1.png" alt="concept-profile-page">
+<img src="doc/profile-picm2.png" alt="concept-profile-page">
 
 ### Concept Sign Up Page
 
