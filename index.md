@@ -94,7 +94,7 @@ For M1, we will largely be focusing on implementing a UI. We will also implement
 
 [Milestone 2](https://github.com/orgs/manoa-exchange/projects/3/views/1)
 
-M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components and improve styling.
+M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components, add saved post component and improve styling.
 
 ## Deployment
 
