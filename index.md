@@ -146,12 +146,12 @@ For M1, we will largely be focusing on implementing a UI. We will also implement
 [Milestone 2](https://github.com/orgs/manoa-exchange/projects/3/views/1)
 
 M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components, add saved post component and improve styling.
- <img src=”doc/M2-done.png” alt=”M2-page”>
+ <img src="doc/M2-done.png" alt="M2-page">
  
 [Milestone 3](https://github.com/orgs/manoa-exchange/projects/4)
 
 M3 Project Page, showing issues to be addressed for our last Milestone for this project. We will continue to improve forms, implement adding images and filtering features in the home page.
- <img src=”doc/M3-done.png” alt=”M3-page”>
+ <img src= "doc/M3-done.png" alt="M3-page">
 
 
 ## Deployment
