@@ -88,8 +88,10 @@ Create a site that:
 - Is easy to navigate
 - Allows special permissions for moderators
 
-  ## Installation Guide
-First, [install Meteor](https://www.meteor.com/install).
+
+## Installation Guide
+ 
+ First, [install Meteor](https://www.meteor.com/install).
 
 Second, visit the [Manoa Exchange application github page](https://github.com/manoa-exchange/manoa-exchange-meteor-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
 
@@ -115,6 +117,13 @@ $ meteor npm run start
 ```
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+## Continuous Integration
+
+![ci-badge](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions/workflows/ci.yml/badge.svg)
+
+Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions/workflows/ci.yml) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions).
+
 
 
 
