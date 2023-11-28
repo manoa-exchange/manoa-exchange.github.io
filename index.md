@@ -117,7 +117,7 @@ $ npm install cloudinary
 ```
 
 ```
- npm install react-router-dom  
+$ npm install react-router-dom  
 ```
 
 Fourth, run the system with:
