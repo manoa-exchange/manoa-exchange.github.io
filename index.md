@@ -116,6 +116,9 @@ $ npm install obscenity
 $ npm install cloudinary
 ```
 
+```
+ npm install react-router-dom  
+```
 
 Fourth, run the system with:
 
