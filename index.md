@@ -100,6 +100,10 @@ For M1, we will largely be focusing on implementing a UI. We will also implement
 
 M2 Project page showing the issues expected to be addressed during the second Milestone for this project. Implement admin page, signed in home page, post/profile components, add saved post component and improve styling.
 
+[Milestone 3](https://github.com/orgs/manoa-exchange/projects/4)
+
+M3 Project Page, showing issues to be addressed for our last Milestone for this project. We will continue to improve forms, implement adding images and filtering features in the home page.
+
 ## Deployment
 
 We acquired the domain name manoaexchange.com and made it secure with an HTTPS.
