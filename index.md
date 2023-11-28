@@ -68,6 +68,10 @@ Students can post a picture to be shared with their followers. The post componen
 
 <img src="doc/signOut.PNG" alt="sign-out">
 
+### Saved Posts Page
+
+<img src="doc/Screenshot 2023-11-27 233627.png" alt="saved-posts">
+
 ## Goals
 
 Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
