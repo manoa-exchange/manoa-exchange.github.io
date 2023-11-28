@@ -79,6 +79,7 @@ Students can post a picture to be shared with their followers. The post componen
 ### Moderation Page
 
 <img src="doc/ModerationPage.PNG" alt="saved-posts">
+
 ## Goals
 
 Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
