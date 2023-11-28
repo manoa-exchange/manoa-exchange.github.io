@@ -53,25 +53,32 @@ To sign in, students can either use the link at the top of the navbar or in the 
 <img src="doc/signinM1.png" alt="concept-sign-in-page">
 
 ### Add Post 
-<img src= "doc/Screenshot 2023-11-27 233531.png" alt="concept-add-post">
+<img src= "doc/AddPost.PNG" alt="concept-add-post">
 
 ### Edit Post 
 <img src="doc/EditPostPage.png" alt="concept-edit-post">
 
-### Post Page & Comment Section
+### Post Page
 
 Students can post a picture to be shared with their followers. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
-<img src="doc/CommentsPage.png" alt="concept-comments">
+<img src="doc/ListPost.PNG" alt="concept-comments">
+
+### Comment Section
+
+<img src="doc/commentSection.PNG" alt="concept-comments">
 
 ### Sign Out Page
 
-<img src="doc/signOut.PNG" alt="sign-out">
+<img src="doc/signOut2.PNG" alt="sign-out">
 
 ### Saved Posts Page
 
-<img src="doc/Screenshot 2023-11-27 233627.png" alt="saved-posts">
+<img src="doc/savedPosts.PNG" alt="saved-posts">
 
+### Moderation Page
+
+<img src="doc/ModerationPage.PNG" alt="saved-posts">
 ## Goals
 
 Our aim is to make it easier for prospective study abroad students and former/current study abroad students to connect and share experiences with the ultimate goal of creating a realistic perception of UH Manoa's available exchange programs.
