@@ -88,6 +88,35 @@ Create a site that:
 - Is easy to navigate
 - Allows special permissions for moderators
 
+  ## Installation Guide
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Manoa Exchange application github page](https://github.com/manoa-exchange/manoa-exchange-meteor-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
+
+Third, cd into the Manoa Exchnage /app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+```
+$ npm install obscenity
+```
+
+```
+$ npm install cloudinary
+```
+
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+
 
 
 ## Developmental Progress
