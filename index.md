@@ -54,20 +54,20 @@ To sign in, students can either use the link at the top of the navbar or in the 
 <img src="doc/signinM1.png" alt="concept-sign-in-page">
 
 ### Add Post 
-<img src= "doc/addpost3.PNG" alt="concept-add-post">
+<img src= "doc/addpost4.PNG" alt="concept-add-post">
 
 ### Edit Post 
-<img src="doc/editpost3.PNG" alt="concept-edit-post">
+<img src="doc/editpost4.PNG" alt="concept-edit-post">
 
 ### Post Page
 
 Students can post a picture to be shared with other users. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
-<img src="doc/HomePage.png" alt="concept-comments">
+<img src="doc/=listpost4.png" alt="concept-comments">
 
 ### Comment Section
 
-<img src="doc/commentSection.PNG" alt="concept-comments">
+<img src="doc/commentsection4.PNG" alt="concept-comments">
 
 ### Sign Out Page
 
