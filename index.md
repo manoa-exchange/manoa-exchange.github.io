@@ -167,8 +167,8 @@ M2 Project page showing the issues expected to be addressed during the second Mi
  
 [Milestone 3](https://github.com/orgs/manoa-exchange/projects/4)
 
-M3 Project Page, showing issues to be addressed for our last Milestone for this project. We will continue to improve forms, implement adding images and filtering features in the home page.
- <img src= "doc/M3Prog.png" alt="M3-page">
+M3 Project Page, showing issues addressed for our last Milestone for this project. We improved forms, implemented adding images and filtering features in the home page, and made the viewing experience better on mobile
+ <img src= "doc/M3complete.png" alt="M3-page">
 
 
 ## Deployment
