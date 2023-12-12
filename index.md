@@ -61,7 +61,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 <img src="doc/signinM1.png" alt="concept-sign-in-page">
 
 ### Add Post 
-<img src= "doc/addpost4.PNG" alt="concept-add-post">
+<img src= "doc/addPostFinal.png" alt="concept-add-post">
 
 ### Edit Post 
 <img src="doc/editpost4.PNG" alt="concept-edit-post">
