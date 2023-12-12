@@ -138,7 +138,7 @@ Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exc
 
 
 ## Community Feedback 
- - " cool feateres, I was confused signing up and didn't realize I could scroll through the countries at the top" 
+ - " Cool feateres, I was confused signing up and didn't realize I could scroll through the countries at the top." 
 
 
 ## Developmental Progress
