@@ -37,7 +37,7 @@ The landing page is presented when users first enter the site. There are several
 
 ### Signed In Landing 
 
-This landing page includes the home page for the website as well as filtering funtionality
+Students can post a picture to be shared with other users. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
 
 <img src="landinghome.png" alt="landing-home">
 
@@ -65,12 +65,6 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 ### Edit Post 
 <img src="doc/editpost4.PNG" alt="concept-edit-post">
-
-### Post Page
-
-Students can post a picture to be shared with other users. The post component consist of an image, captions, likes, comments, saves, reports, tags, profile picture, and a comment section.
-
-<img src="doc/=listpost4.png" alt="concept-comments">
 
 ### Comment Section
 
