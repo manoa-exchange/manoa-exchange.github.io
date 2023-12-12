@@ -16,7 +16,7 @@ title: Manoa Exchange
 * [Goals](#goals)
 * [Installation Guide](#installation-guide)
 * [Continuous Integration](#continuous-integration)
-* [Community Feedback](#community-feedback-)
+* [Community Feedback](#community-feedback)
 * [Developmental Progress](#developmental-progress)
 * [Deployment](#deployment)
 * [Team](#team)
@@ -140,7 +140,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions/workflows/ci.yml) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions).
 
 
-## Community Feedback 
+## Community Feedback
  - " Cool features I like that the country names change, I was confused signing up and didn't realize I could scroll through the countries at the top."
  - "I really like it, but I wish there was more to look at like adding specific places in the countries."
  - "Very functional but easier to see on a laptop."
