@@ -39,7 +39,7 @@ The landing page is presented when users first enter the site. There are several
 
 This landing page includes the home page for the website as well as filtering funtionality
 
-<img src="doc/landinghome.png" alt="landing-home">
+<img src="landinghome.png" alt="landing-home">
 
 
 ### Profile Page
