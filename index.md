@@ -80,7 +80,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 ### Moderation Page
 
-<img src="doc/AdminReportedPage.png" alt="saved-posts">
+<img src="doc/ModerationFinal.png" alt="saved-posts">
 
 ## Goals
 
