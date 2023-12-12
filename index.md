@@ -33,7 +33,7 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
 
-<img src="doc/screencapture-manoaexchange-2023-12-07-11_07_57.png" alt="concept-landing">
+<img src="landing" alt="concept-landing">
 
 ### Signed In Landing 
 
