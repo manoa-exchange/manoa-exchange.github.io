@@ -36,7 +36,10 @@ The landing page is presented when users first enter the site. There are several
 <img src="doc/screencapture-manoaexchange-2023-12-07-11_07_57.png" alt="concept-landing">
 
 ### Signed In Landing 
+
 This landing page includes the home page for the website as well as filtering funtionality
+
+<img src="doc/landinghome.png" alt="landing-home">
 
 
 ### Profile Page
