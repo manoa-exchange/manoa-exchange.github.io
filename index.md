@@ -141,6 +141,8 @@ Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exc
  - " Cool features I like that the country names change, I was confused signing up and didn't realize I could scroll through the countries at the top."
  - "I really like it, but I wish there was more to look at like adding specific places in the countries."
  - "Very functional but easier to see on a laptop."
+ - "Good looking, but maybe make it more mobile friendly, better fonts, and ability to see posts without logging in"
+ - "Changing the colors for country tags to match their theme may look better"
  
 
 ## Developmental Progress
