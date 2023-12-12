@@ -76,7 +76,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 ### Saved Posts Page
 
-<img src="doc/SavedPostsPage.png" alt="saved-posts">
+<img src="doc/SavedPostFinal.png" alt="saved-posts">
 
 ### Moderation Page
 
