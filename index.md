@@ -4,7 +4,6 @@ title: Manoa Exchange
 
 ### Important Links 
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
-* <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
 *  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
 *  <a href ="https://github.com/orgs/manoa-exchange/projects/3/views/1">M2 Project Page</a>
 * [M3 Project Page](https://github.com/orgs/manoa-exchange/projects/4)
@@ -15,6 +14,9 @@ title: Manoa Exchange
 
 * [Description](#description)
 * [Goals](#goals)
+* [Installation Guide](#installation-guide)
+* [Continuous Integration](#continuous-integration)
+* [Community Feedback](#community-feedback-)
 * [Developmental Progress](#developmental-progress)
 * [Deployment](#deployment)
 * [Team](#team)
@@ -33,7 +35,7 @@ Our solution is a peer-to-peer study abroad experience sharing site which is an 
 
 The landing page is presented when users first enter the site. There are several links to the Sign Up page, and it lists the features of the application. Additionally, there will be a carousel of resources available at the bottom of the page.
 
-<img src="landing" alt="concept-landing">
+<img src="doc/screencapture-manoaexchange-2023-12-11-22_56_27.png" alt="concept-landing">
 
 ### Signed In Landing 
 
@@ -68,7 +70,7 @@ To sign in, students can either use the link at the top of the navbar or in the 
 
 ### Comment Section
 
-<img src="doc/commentsection4.PNG" alt="concept-comments">
+<img src="doc/commentsectionfinal.png" alt="concept-comments">
 
 ### Sign Out Page
 
