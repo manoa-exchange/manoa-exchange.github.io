@@ -137,7 +137,8 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions/workflows/ci.yml) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions](https://github.com/manoa-exchange/manoa-exchange-meteor-app/actions).
 
 
-
+## Community Feedback 
+ - " cool feateres, I was confused signing up and didn't realize I could scroll through the countries at the top" 
 
 
 ## Developmental Progress
