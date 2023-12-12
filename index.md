@@ -144,6 +144,7 @@ Manoa Exchange uses [GitHub Actions](https://github.com/manoa-exchange/manoa-exc
  - "Very functional but easier to see on a laptop."
  - "Good looking, but maybe make it more mobile friendly, better fonts, and ability to see posts without logging in"
  - "Changing the colors for country tags to match their theme may look better"
+ - "This website is super cool for the people who wants to study abroad and connect with one another. I also really like the color scheme of the website." -Josh C.
  
 
 ## Developmental Progress
