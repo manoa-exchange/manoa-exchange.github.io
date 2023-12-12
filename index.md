@@ -46,7 +46,7 @@ Students can post a picture to be shared with other users. The post component co
 
 The profile page displays the user's personal information as well as other social links. Their posts are visible.
 
-<img src="doc/ProfilePage.png" alt="concept-profile-page">
+<img src="doc/profilepageFinale.png" alt="concept-profile-page">
 
 ### Sign Up Page
 
