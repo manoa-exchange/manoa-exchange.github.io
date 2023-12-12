@@ -2,7 +2,7 @@
 title: Manoa Exchange
 ---
 
-### Important Links 
+### Important Links
 * <a href = "https://github.com/manoa-exchange">Github Organization</a>
 *  <a href = "https://github.com/orgs/manoa-exchange/projects/1">M1 Project Page</a>
 *  <a href ="https://github.com/orgs/manoa-exchange/projects/3/views/1">M2 Project Page</a>
@@ -179,3 +179,5 @@ We acquired the domain name manoaexchange.com and made it secure with an HTTPS.
 <a href = "https://docs.google.com/document/d/1nteX543kMCYJGZ1wz_qUCjIUVHeU8d_F11VFqwEwwdI/edit">Team Contract</a>
 
 Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
+
+_[Back to top](#important-links)_
